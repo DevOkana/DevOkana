@@ -4,8 +4,7 @@ Soy un estudiante de Ingeniería Informática apasionado por la programación y 
 
 ![GitHub followers](https://img.shields.io/github/followers/DevOkana?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/DevOkana?style=social)
-![GitHub forks](https://img.shields.io/github/forks/DevOkana?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/DevOkana?style=social)
+
 ![Profile views](https://komarev.com/ghpvc/?username=DevOkana&color=green)
 
 ## 📫 Conéctate conmigo
@@ -30,13 +29,6 @@ Soy un estudiante de Ingeniería Informática apasionado por la programación y 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-## 🏆 Logros y Reconocimientos
-
-- 🥇 **Contribuidor Principal** en varios proyectos de código abierto.
-- 🌟 **Estrella de GitHub** en múltiples repositorios.
-- 🎖 **Top 10%** en competiciones de programación en línea.
 
 ## 📊 Estadísticas de GitHub
 
